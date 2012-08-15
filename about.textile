@@ -7,5 +7,5 @@ h2. 关于我
 
 test github page.
 
--- 蒋鑫
+-- 
 
